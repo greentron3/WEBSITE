@@ -1,0 +1,41 @@
+<!doctype html>
+<!--comment-->
+<html> 
+
+<head>
+    <title> 
+        Example Website
+    </title>
+
+         <style>
+
+        body {
+            background:greenyellow;
+        }
+
+             p {
+            color: red;
+            font-size: 2em  
+            }
+
+            div {
+                background:purple;
+                color: white;
+                padding:1em;
+                margin:1em;
+                border-radius:2em;
+                font-weight:bold    ;
+            }
+        </style>
+</head>
+
+<body>
+    <h1>This is an example</h1>
+    <p>Welcome</p>
+</body>
+
+
+
+
+
+</html>
