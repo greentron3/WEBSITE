@@ -118,6 +118,8 @@
       <div class="answer">
         <p id="eight">8</p>
         <p id="answer"></p>
+        <p>to page 2</p>
+    <a href="page2.html" target="_self">Link</a>
       </div>
     </div>
   </div>
